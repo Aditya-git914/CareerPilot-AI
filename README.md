@@ -1,4 +1,4 @@
-# AI Career Coach
+# CarrerPilot-Ai
 
 ## Local setup
 
